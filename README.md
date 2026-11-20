@@ -23,7 +23,7 @@ A small, self-contained toolkit that lets **any coding agent** (Claude Code, ZCo
 - 🔁 **It falls back automatically** — if a mirror fails its test, the agent reverts and tries the next source in the chain.
 - 📜 **It reports faithfully** — final summary of what changed, what passed, what failed, and how to roll back.
 
-All mirror data was compiled from [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) and **verified provider-by-provider on 2026-11-19** (every endpoint fetched and probed; raw evidence kept in `_research/`).
+All mirror data was compiled from [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) and **verified provider-by-provider on 2026-11-19** (every endpoint fetched and probed).
 
 ## 📦 What's inside
 
