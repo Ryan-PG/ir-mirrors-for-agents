@@ -169,12 +169,12 @@ Yes — for non-interactive runs, pass the tool list to the agent up front (e.g.
 
 ## 📬 Contact Me
 
-- 📧 Email: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
-- 💼 LinkedIn: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
-- 🐙 GitHub: [Ryan-PG](https://www.github.com/Ryan-PG)
-- ✈️ Telegram: [@Mr_RyanHeida](https://t.me/Mr_RyanHeida)
-- 🐦 X (Twitter): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
 - ▶️ YouTube: [@Ryan-Heida](https://www.youtube.com/@Ryan-Heida)
+- ✈️ Telegram: [@RyanHeida](https://t.me/RyanHeida)
+- 💼 LinkedIn: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
+- 📧 Email: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
+- 🐙 GitHub: [Ryan-PG](https://www.github.com/Ryan-PG)
+- 🐦 X (Twitter): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
 
 <div align="center">
 

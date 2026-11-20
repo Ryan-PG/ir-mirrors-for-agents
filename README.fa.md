@@ -169,12 +169,12 @@
 
 ## 📬 تماس با من
 
-- 📧 ایمیل: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
-- 💼 لینکدین: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
-- 🐙 گیت‌هاب: [Ryan-PG](https://www.github.com/Ryan-PG)
-- ✈️ تلگرام: [@Mr_RyanHeida](https://t.me/Mr_RyanHeida)
-- 🐦 ایکس (توییتر): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
 - ▶️ یوتیوب: [@Ryan-Heida](https://www.youtube.com/@Ryan-Heida)
+- ✈️ تلگرام: [@RyanHeida](https://t.me/RyanHeida)
+- 💼 لینکدین: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
+- 📧 ایمیل: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
+- 🐙 گیت‌هاب: [Ryan-PG](https://www.github.com/Ryan-PG)
+- 🐦 ایکس (توییتر): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
 
 <div align="center">
 
