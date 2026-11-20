@@ -1,6 +1,6 @@
 # 🪞 Iranian Mirror Catalog — Single Source of Truth
 
-**Generated:** 2026-11-19 · **Primary source:** [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) (Ali Bigdeli's mirror list) · **Verification:** every provider page was fetched, every endpoint probed on 2026-11-19 (raw evidence in `_research/`).
+**Generated:** 2026-11-19 · **Primary source:** [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) (Ali Bigdeli's mirror list) · **Verification:** every provider page was fetched, every endpoint probed on 2026-11-19.
 
 This catalog has three parts:
 
@@ -764,6 +764,6 @@ Providers × ecosystems (✅ verified / 🟡 documented / ⚠️ flagged / ❌ d
 
 ## Appendix B — Verification log (summary)
 
-- All provider pages fetched 2026-11-19 with TLS-fallback curl (`--tlsv1.2 -k`); raw HTML + extraction notes preserved under `_research/html/` and `_research/notes/`.
+- All provider pages fetched 2026-11-19 with TLS-fallback curl (`--tlsv1.2 -k`).
 - Probe patterns: registry `/v2/` (expect 200/401), PyPI `/simple/` (expect HTML/JSON index), npm `/lodash` (expect packument), apt `/dists/` (expect suite listing), plus directory autoindexes for distro coverage.
 - 3 sources dead (KubarCloud, HyperClouds, Rust Meetup); 3 flagged (Megan 503, Pardisco 500, AminiDC Ubuntu stale); all other endpoints in Part 3 verified or provider-documented as marked.

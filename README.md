@@ -34,7 +34,6 @@ All mirror data was compiled from [thealibigdeli.ir/mirrors](https://thealibigde
 | 🤖 [AGENT_PROMPT_FA.md](AGENT_PROMPT_FA.md) | The agent operating prompt — Persian (فارسی) |
 | 📖 [README.md](README.md) | This file — English |
 | 📖 [README.fa.md](README.fa.md) | Persian user guide (راهنمای فارسی) |
-| 🔬 `_research/` | Raw verification evidence: fetched HTML, extracted notes, probe results |
 
 ## 🚀 Quickstart
 
@@ -133,7 +132,7 @@ Everything is ordinary shell:
 
 1. The provider list was scraped from [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) (plus the site's `/pypi-alternative` and `/ubuntu-solutions` pages and their scripts).
 2. **Every provider page** was fetched and every endpoint probed (registry `/v2/`, PyPI `/simple/`, npm packuments, apt `/dists/`, directory listings).
-3. Coverage, freshness, and quirks were recorded per provider → [MIRROR_CATALOG.md](MIRROR_CATALOG.md); raw evidence lives in [`_research/`](_research) (`html/`, `notes/`).
+3. Coverage, freshness, and quirks were recorded per provider → [MIRROR_CATALOG.md](MIRROR_CATALOG.md).
 4. Catalog is dated **2026-11-19** — mirrors come and go; re-run a verification before relying on a rarely-used option, and see the FAQ below.
 
 ## ❓ FAQ
@@ -167,6 +166,15 @@ Yes — for non-interactive runs, pass the tool list to the agent up front (e.g.
 
 - 🪞 Mirror list & ecosystem knowledge: [Ali Bigdeli — thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors)
 - 🏛️ Mirror infrastructure: RunFlare, ArvanCloud, IranServer, Chabokan, Liara, DevNeeds, Jamko/chrepo, Megan, MobinHost, Pardisco, Asiatech, ITO, IUT IT Center, Sindad, Pishgaman, Shatel, Rasanegar, AminiDC — and the operators behind every endpoint in the catalog.
+
+## 📬 Contact Me
+
+- 📧 Email: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
+- 💼 LinkedIn: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
+- 🐙 GitHub: [Ryan-PG](https://www.github.com/Ryan-PG)
+- ✈️ Telegram: [@Mr_RyanHeida](https://t.me/Mr_RyanHeida)
+- 🐦 X (Twitter): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
+- ▶️ YouTube: [@Ryan-Heida](https://www.youtube.com/@Ryan-Heida)
 
 <div align="center">
 

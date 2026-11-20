@@ -23,7 +23,7 @@
 - 🔁 **به‌صورت خودکار به گزینه بعدی می‌رود** — اگر میروری در تست شکست بخورد، عامل تغییر را برمی‌گرداند و سراغ منبع بعدی در زنجیره می‌رود.
 - 📜 **صادقانه گزارش می‌دهد** — خلاصه نهایی: چه تغییر کرد، چه چیزی موفق شد، چه چیزی شکست خورد و چطور به حالت قبل برگردید.
 
-تمام داده‌های میرور از [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) گردآوری و در تاریخ **۲۰۲۶‑۱۱‑۱۹ ارائه‌دهنده‌به‌ارائه‌دهنده تأیید** شده است (هر endpoint واکشی و probe شده؛ شواهد خام در پوشه `_research/`).
+تمام داده‌های میرور از [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) گردآوری و در تاریخ **۲۰۲۶‑۱۱‑۱۹ ارائه‌دهنده‌به‌ارائه‌دهنده تأیید** شده است (هر endpoint واکشی و probe شده).
 
 ## 📦 محتویات
 
@@ -34,7 +34,6 @@
 | 🤖 [AGENT_PROMPT_FA.md](AGENT_PROMPT_FA.md) | پرامپت عملیاتی عامل — فارسی |
 | 📖 [README.md](README.md) | همین راهنما — انگلیسی |
 | 📖 [README.fa.md](README.fa.md) | راهنمای فارسی |
-| 🔬 `_research/` | شواهد خام تأیید: HTML واکشی‌شده، یادداشت‌های استخراج‌شده، نتایج probe |
 
 ## 🚀 شروع سریع
 
@@ -133,7 +132,7 @@
 
 1. فهرست ارائه‌دهنده‌ها از [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) استخراج شد (به‌همراه صفحات `/pypi-alternative` و `/ubuntu-solutions` و اسکریپت‌هایشان).
 2. **صفحه هر ارائه‌دهنده** واکشی و هر endpoint با الگوهای استاندارد probe شد (`/v2/` رجیستری، `/simple/` پایتون، packumentهای npm، `/dists/` آپت، فهرست پوشه‌ها).
-3. پوشش، تازگی همگام‌سازی و نکات خاص هر ارائه‌دهنده ثبت شد → [MIRROR_CATALOG.md](MIRROR_CATALOG.md)؛ شواهد خام در [`_research/`](_research) (`html/` و `notes/`).
+3. پوشش، تازگی همگام‌سازی و نکات خاص هر ارائه‌دهنده ثبت شد → [MIRROR_CATALOG.md](MIRROR_CATALOG.md).
 4. تاریخ کاتالوگ **۲۰۲۶‑۱۱‑۱۹** است — میرورها می‌آیند و می‌روند؛ پیش از اتکا به گزینه‌های کم‌استفاده، تأیید را دوباره اجرا کنید (FAQ را ببینید).
 
 ## ❓ پرسش‌های متداول
@@ -167,6 +166,15 @@
 
 - 🪞 فهرست میرورها و شناخت اکوسیستم: [علی بیگدلی — thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors)
 - 🏛️ زیرساخت میرورها: رانفلر، آروان‌کلود، ایران‌سرور، چابکان، لیارا، DevNeeds، جمکو/chrepo، مگان، مبین‌هاست، پاردیسکو، آسیاتک، سازمان فناوری اطلاعات ایران (ITO)، مرکز IT دانشگاه صنعتی اصفهان، سینداد، پیشگامان، شاتل، رسانگار، امین‌دیتاسنتر — و همه اپراتورهایی که پشت هر endpoint این کاتالوگ هستند.
+
+## 📬 تماس با من
+
+- 📧 ایمیل: [mr.ryanheida@gmail.com](mailto:mr.ryanheida@gmail.com)
+- 💼 لینکدین: [Ryan Heida](https://www.linkedin.com/in/ryan-heida)
+- 🐙 گیت‌هاب: [Ryan-PG](https://www.github.com/Ryan-PG)
+- ✈️ تلگرام: [@Mr_RyanHeida](https://t.me/Mr_RyanHeida)
+- 🐦 ایکس (توییتر): [@Ryan_Heida_](https://x.com/Ryan_Heida_)
+- ▶️ یوتیوب: [@Ryan-Heida](https://www.youtube.com/@Ryan-Heida)
 
 <div align="center">
 
