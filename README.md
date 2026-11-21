@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+
+[![IR Mirrors for Agents — 60-second promo video](promo-thumbnail.png)](product-showcase.mp4)
+
+*▶ Watch the 60-second promo — the agent interviews, mirrors, tests, and reports, end to end.*
+
+</div>
+
 ## ✨ What is this?
 
 A small, self-contained toolkit that lets **any coding agent** (Claude Code, ZCode, Cursor, Copilot Workspace, …) configure Iranian package mirrors on your machine:

@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+
+[![IR Mirrors for Agents — 60-second promo video](promo-thumbnail.png)](product-showcase.mp4)
+
+*▶ تماشای ویدیوی ۶۰ ثانیه‌ای معرفی — ایجنت، میرورها، تست‌ها و گزارش‌ها، از ابتدا تا انتها.*
+
+</div>
+
 ## ✨ این چیست؟
 
 یک مجموعه‌ابزار کوچک و خودکفا که به **هر عامل کدنویسی** (Claude Code، ZCode، Cursor، Copilot Workspace و …) اجازه می‌دهد پکیج‌منیجرهای شما را به میرورهای ایرانی پیکربندی کند:
