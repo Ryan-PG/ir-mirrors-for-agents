@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![IR Mirrors for Agents — 60-second promo video](promo-thumbnail.png)](product-showcase.mp4)
+https://github.com/user-attachments/assets/45812c1d-833b-49fe-94f7-cf0c9e95e1d5
 
 *▶ تماشای ویدیوی ۶۰ ثانیه‌ای معرفی — ایجنت، میرورها، تست‌ها و گزارش‌ها، از ابتدا تا انتها.*
 
