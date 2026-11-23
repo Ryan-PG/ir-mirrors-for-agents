@@ -1,6 +1,9 @@
 <div align="center">
 
+
 # 🪞 IR Mirrors for Agents
+
+English | [فارسی](README.fa.md)
 
 **Switch your development tools to fast Iranian mirrors — safely, automatically, and only where you want them.**
 
@@ -32,6 +35,16 @@ A small, self-contained toolkit that lets **any coding agent** (Claude Code, ZCo
 - 📜 **It reports faithfully** — final summary of what changed, what passed, what failed, and how to roll back.
 
 All mirror data was compiled from [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) and **verified provider-by-provider on 2026-11-19** (every endpoint fetched and probed).
+
+## ▶️ Watch the walkthrough
+
+<div align="center">
+
+[![Watch the video: IR Mirrors for Agents](https://img.youtube.com/vi/DJKefHSJTu0/maxresdefault.jpg)](https://www.youtube.com/watch?v=DJKefHSJTu0)
+
+*Watch the video for a quick walkthrough of how to use IR Mirrors for Agents.*
+
+</div>
 
 ## 📦 What's inside
 

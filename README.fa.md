@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🪞 میرورهای ایرانی برای عامل‌های کدنویسی
+# 🪞 میرورهای ایرانی برای اینجنت های کدنویسی
+
+**فارسی** | [English](README.md)
 
 **ابزارهای توسعه‌ی خود را به میرورهای ایرانیِ سریع سوئیچ کنید — امن، خودکار، و فقط برای همان‌هایی که می‌خواهید.**
 
@@ -33,6 +35,18 @@ https://github.com/user-attachments/assets/45812c1d-833b-49fe-94f7-cf0c9e95e1d5
 
 تمام داده‌های میرور از [thealibigdeli.ir/mirrors](https://thealibigdeli.ir/mirrors) گردآوری و در تاریخ **۲۰۲۶‑۱۱‑۱۹ ارائه‌دهنده‌به‌ارائه‌دهنده تأیید** شده است (هر endpoint واکشی و probe شده).
 
+## 🎬 آموزش استفاده
+
+برای آشنایی سریع با نحوه‌ی استفاده از این ابزار، ویدیوی کوتاه زیر را ببینید:
+
+<div align="center">
+
+[![آموزش استفاده از میرورهای ایرانی برای عامل‌های کدنویسی](https://img.youtube.com/vi/DJKefHSJTu0/maxresdefault.jpg)](https://www.youtube.com/watch?v=DJKefHSJTu0)
+
+*▶ برای تماشای ویدیو و دیدن مراحل استفاده از ابزار، روی تصویر کلیک کنید.*
+
+</div>
+
 ## 📦 محتویات
 
 | فایل | کاربرد |
@@ -40,8 +54,8 @@ https://github.com/user-attachments/assets/45812c1d-833b-49fe-94f7-cf0c9e95e1d5
 | 📚 [MIRROR_CATALOG.md](MIRROR_CATALOG.md) | **تنها منبع حقیقت.** پوشش تفصیلی همه ارائه‌دهنده‌ها (بخش ۲) + گزینه‌های مرتب میرور برای هر ابزار همراه با دستورات پیکربندی/تست/بازگردانی (بخش ۳) |
 | 🤖 [AGENT_PROMPT_EN.md](AGENT_PROMPT_EN.md) | پرامپت عملیاتی عامل — انگلیسی |
 | 🤖 [AGENT_PROMPT_FA.md](AGENT_PROMPT_FA.md) | پرامپت عملیاتی عامل — فارسی |
-| 📖 [README.md](README.md) | همین راهنما — انگلیسی |
-| 📖 [README.fa.md](README.fa.md) | راهنمای فارسی |
+| 📖 [README.md](README.md) | راهنمای انگلیسی |
+| 📖 [README.fa.md](README.fa.md) | همین راهنما — فارسی |
 
 ## 🚀 شروع سریع
 
